@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "汉字迷宫", "汉字迷宫\汉字迷宫.vcxproj", "{253F7397-7E82-4A57-82C5-64746797DD0C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "汉字迷宫游戏", "汉字迷宫游戏\汉字迷宫游戏.vdproj", "{7D7BC79E-BA0B-4F30-B158-5B36FE1B6264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Debug|x64.ActiveCfg = Debug|x64
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Debug|x64.Build.0 = Debug|x64
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Debug|x86.Build.0 = Debug|Win32
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Release|x64.ActiveCfg = Release|x64
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Release|x64.Build.0 = Release|x64
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Release|x86.ActiveCfg = Release|Win32
+		{253F7397-7E82-4A57-82C5-64746797DD0C}.Release|x86.Build.0 = Release|Win32
+		{7D7BC79E-BA0B-4F30-B158-5B36FE1B6264}.Debug|x64.ActiveCfg = Debug
+		{7D7BC79E-BA0B-4F30-B158-5B36FE1B6264}.Debug|x86.ActiveCfg = Debug
+		{7D7BC79E-BA0B-4F30-B158-5B36FE1B6264}.Release|x64.ActiveCfg = Release
+		{7D7BC79E-BA0B-4F30-B158-5B36FE1B6264}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E235EB-8E6C-46AE-A7AC-64D39D5F79B1}
+	EndGlobalSection
+EndGlobal
